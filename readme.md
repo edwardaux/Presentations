@@ -6,3 +6,6 @@ I quite like using DeckSet for presentations, so you'll find an `index.md` file 
 ## Presentations
 ### Pipe Dreams
 This is a presentation that I gave to our local Sydney CocoaHeads group describing some of the techniques I've been using to streamline our build pipeline. 
+
+### Building Supportable Mobile Apps
+Presented at YOW Connected 2016, this talk discusses some techniques for ensuring your mobile apps are supportable after they're launched.
