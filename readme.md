@@ -9,3 +9,6 @@ This is a presentation that I gave to our local Sydney CocoaHeads group describi
 
 ### Building Supportable Mobile Apps
 Presented at YOW Connected 2016, this talk discusses some techniques for ensuring your mobile apps are supportable after they're launched.
+
+### What's new in Flutter (Beta 3)
+Presented at Melbourne Google Developer Group in May 2018. Covers pros/cons of Flutter as at the time of presentation, and describes what was new in Beta 3.
